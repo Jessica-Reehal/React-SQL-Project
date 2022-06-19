@@ -1,0 +1,22 @@
+[
+    {
+        "bookNo": 1,
+        "name": "Harry Potter and the Goblet of Fire",
+        "author": "J.K. Rowling"
+    },
+    {
+        "bookNo": 2,
+        "name": "To Kill a Mockingbird",
+        "author": "Harper Lee"
+    },
+    {
+        "bookNo": 3,
+        "name": "The Broken Girls",
+        "author": "Simon St. James"
+    },
+    {
+        "bookNo": 4,
+        "name": "Three Mistakes of my Life",
+        "author": "Chetan Bhagat"
+    }
+]

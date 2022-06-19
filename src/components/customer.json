@@ -1,0 +1,37 @@
+[
+    {
+      "custNo": 1,
+      "name": "Jessica Reehal",
+      "phoneNo": "5647834251",
+      "bookNo":"1",
+      "issueDate":"2022-06-06"
+    },
+    {
+      "custNo": 2,
+      "name": "Jenny Trumph",
+      "phoneNo": "6758876564",
+      "bookNo":"4",
+      "issueDate":"2022-06-07"
+    },
+    {
+      "custNo": 3,
+      "name": "Ronald Frank",
+      "phoneNo": "9898765654",
+      "bookNo":"1",
+      "issueDate":"2022-06-05"
+    },
+    {
+      "custNo": 4,
+      "name": "Richmond Clark",
+      "phoneNo": "7876590876",
+      "bookNo":"3",
+      "issueDate":"2022-06-06"
+    },
+    {
+      "custNo": 5,
+      "name": "Emillie Edwards",
+      "phoneNo": "3989767516",
+      "bookNo":"2",
+      "issueDate":"2022-06-06"
+    }
+  ]
